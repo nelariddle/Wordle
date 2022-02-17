@@ -1,18 +1,7 @@
-## Getting Started
+when running the code, it will output a "best guess"
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+you then input the clue given by the Wordle site, where gray=1, yellow=2, and green=3
 
-## Folder Structure
+for example if the code suggested "vents" and the clue given for that guess was Yellow/Yellow/Yellow/Gray/Green you would input 22213
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+the program will then output the next best guess based on the new input givem
