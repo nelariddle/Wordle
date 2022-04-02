@@ -4,4 +4,4 @@ you then input the clue given by the Wordle site, where gray=1, yellow=2, and gr
 
 for example if the code suggested "vents" and the clue given for that guess was Yellow/Yellow/Yellow/Gray/Green you would input 22213
 
-the program will then output the next best guess based on the new input givem
+the program will then output the next best guess based on the new input given
